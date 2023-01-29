@@ -3,4 +3,3 @@ print('i am hungry')
 you want some food to eat?
 
 please eat pizza and somosa
-please eat burger
