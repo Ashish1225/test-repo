@@ -5,3 +5,5 @@ you want some food to eat?
 please eat pizza and somosa
 
 Are you thirsty?
+
+drink water.
