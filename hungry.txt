@@ -2,6 +2,8 @@ print('i am hungry')
 
 you want some food to eat?
 
+eat fries.
+
 please eat pizza and somosa
 
 Are you thirsty?
